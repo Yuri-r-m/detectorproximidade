@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Detector de Proximidade</string>
+    <string name="sensor_not_available">Sensor não disponível</string>
+    <string name="status_near">PERTO</string>
+    <string name="status_far">LONGE</string>
+    <string name="sensor_value_format">Valor do sensor: %.1f cm</string>
+</resources>

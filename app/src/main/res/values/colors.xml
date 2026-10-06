@@ -1,0 +1,7 @@
+<resources>
+    <!-- Proximity indicator colors -->
+    <color name="near_text">#E53935</color>
+    <color name="near_bg">#FFCDD2</color>
+    <color name="far_text">#43A047</color>
+    <color name="far_bg">#C8E6C9</color>
+</resources>
